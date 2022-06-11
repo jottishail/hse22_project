@@ -20,4 +20,27 @@ Mycobacterium conspicuum  | 6237139      | 5847                | 0.9256
 Mycobacterium cookii      | 5318517      | 5047                | 0.9274
 Mycobacterium diernhoferi | 5998503      | 5643                | 0.9204
 
-TODO
+## Предсказание участков Z-DNA
+
+### Все найденные участки
+
+Организм                  | Участки Z-DNA | Общая длина участков Z-DNA
+--------------------------|---------------|---------------------------
+Mycobacterium basiliense  | 5607630       | 53483548
+Mycobacterium branderi    | 5115366       | 48951724
+Mycobacterium conspicuum  | 6237139       | 59845176
+Mycobacterium cookii      | 5318517       | 50704654
+Mycobacterium diernhoferi | 5998503       | 57874352
+
+Предсказанные участки Z-DNA покрывают почти весь геном, но у большей части из них слишком низкий скор.
+
+### ZH-Score >= 500
+Организм                  | Участки Z-DNA | Общая длина участков Z-DNA
+--------------------------|---------------|---------------------------
+Mycobacterium basiliense  | 54295         | 536644
+Mycobacterium branderi    | 60974         | 600654
+Mycobacterium conspicuum  | 91668         | 905066
+Mycobacterium cookii      | 57611         | 566130
+Mycobacterium diernhoferi | 63890         | 634210
+
+Отфильтрванные участки Z-DNA покрывают 10-15% генома
