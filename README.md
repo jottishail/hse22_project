@@ -1,6 +1,6 @@
 # HSE BioInf 2022 project
 
-[Colab](https://colab.research.google.com/drive/1x_dEPJYpuTsx3fNG2vOzc2dPSlwk8iJo)  **TODO permissions**
+[Colab](https://colab.research.google.com/drive/1x_dEPJYpuTsx3fNG2vOzc2dPSlwk8iJo)
 
 ## Файлы
 
@@ -44,3 +44,27 @@ Mycobacterium cookii      | 57611         | 566130
 Mycobacterium diernhoferi | 63890         | 634210
 
 Отфильтрванные участки Z-DNA покрывают 10-15% генома
+
+### Пересечения с промотерами
+
+Организм                  | Количество пересечений
+--------------------------|-----------------------
+Mycobacterium basiliense  | 3129
+Mycobacterium branderi    | 4394
+Mycobacterium conspicuum  | 5046
+Mycobacterium cookii      | 3444
+Mycobacterium diernhoferi | 3869
+
+С промотерами пересекается 5-8% отфильтрованных участков Z-DNA
+
+Примеры пересечений:
+
+![intersections](images/intersections_sample1.png)
+![intersections](images/intersections_sample2.png)
+![intersections](images/intersections_sample3.png)
+![intersections](images/intersections_sample4.png)
+![intersections](images/intersections_sample5.png)
+
+## Гомологичные связи
+
+TODO
