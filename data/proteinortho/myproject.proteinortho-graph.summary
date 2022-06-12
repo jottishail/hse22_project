@@ -1,0 +1,26 @@
+# The adjacency matrix, the number of edges between 2 species
+# file	GCA_010727945.1_protein.faa	GCA_010728725.1_protein.faa	GCA_010730195.1_protein.faa	GCA_019456655.1_protein.faa	GCA_900292015.1_protein.faa	
+GCA_010727945.1_protein.faa	0	3659	3704	3146	3186
+GCA_010728725.1_protein.faa	3659	0	3765	3230	3314
+GCA_010730195.1_protein.faa	3704	3765	0	3251	3479
+GCA_019456655.1_protein.faa	3146	3230	3251	0	2973
+GCA_900292015.1_protein.faa	3186	3314	3479	2973	0
+# file	average number of edges
+GCA_010727945.1_protein.faa	2739	
+GCA_010728725.1_protein.faa	2793.6	
+GCA_010730195.1_protein.faa	2839.8	
+GCA_019456655.1_protein.faa	2520	
+GCA_900292015.1_protein.faa	2590.4	
+# The 2-path matrix, the number of paths between 2 species of length 2
+# file	GCA_010727945.1_protein.faa	GCA_010728725.1_protein.faa	GCA_010730195.1_protein.faa	GCA_019456655.1_protein.faa	GCA_900292015.1_protein.faa	
+GCA_010727945.1_protein.faa(0)	47155809	34665544	35087875	33332252	34365200
+GCA_010728725.1_protein.faa(1)	69331088	48979002	35583072	33603751	34358799
+GCA_010730195.1_protein.faa(2)	70175750	71166144	50567283	34156801	33943377
+GCA_019456655.1_protein.faa(3)	66664504	67207502	68313602	39737946	32037605
+GCA_900292015.1_protein.faa(4)	68730400	68717598	67886754	64075210	42075362
+# file	average number of 2-paths
+GCA_010727945.1_protein.faa(0)	64411510.2
+GCA_010728725.1_protein.faa(1)	65080266.8
+GCA_010730195.1_protein.faa(2)	65621906.6
+GCA_019456655.1_protein.faa(3)	61199752.8
+GCA_900292015.1_protein.faa(4)	62297064.8
