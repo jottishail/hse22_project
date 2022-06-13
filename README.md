@@ -67,4 +67,11 @@ Mycobacterium diernhoferi | 3869
 
 ## Гомологичные связи
 
-TODO
+Найдено 2412 кластеров, которые включают гены из всех 5 геномов. Из них 204 - с Z-DNA в промотерах генов (см. колаб).
+
+Визуализация:
+![intersections](images/cluster1.png)
+![intersections](images/cluster2.png)
+![intersections](images/cluster3.png)
+![intersections](images/cluster4.png)
+![intersections](images/cluster5.png)
